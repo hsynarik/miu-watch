@@ -1,0 +1,22 @@
+# Gradle cache & build outputs
+.gradle/
+.kotlin/
+build/
+app/build/
+*.apk
+*.aab
+
+# Local device & SDK properties
+local.properties
+
+# Android Studio / IntelliJ IDE files
+.idea/
+*.iml
+.shelf/
+android.iml
+.cxx/
+captures/
+
+# OS specific files
+.DS_Store
+Thumbs.db
