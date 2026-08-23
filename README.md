@@ -5,10 +5,6 @@
 ![Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20APK%20Build-orange?logo=githubactions)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-<p align="center">
-  <img src="preview.jpg" alt="Miu Watch Preview" width="100%" />
-</p>
-
 A native **Wear OS / Galaxy Watch 6** companion application for controlling the **Miu Robot**. Streams hardware sensor orientation (`Rotation Vector`) directly into Miu's motor control loop via local Wi-Fi without browser sandbox limitations.
 
 ---
